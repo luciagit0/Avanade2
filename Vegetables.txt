@@ -1,10 +1,6 @@
-Aubergine
-Tomato
-Pepper
+
 Artichoke
 Cucumber
 Lettuce
 Broccoli
-Cauliflower
-Carrot
-Potato
+Green Peas
