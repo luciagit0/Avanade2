@@ -3,3 +3,8 @@ Tomato
 Pepper
 Artichoke
 Cucumber
+Lettuce
+Broccoli
+Cauliflower
+Carrot
+Potato
